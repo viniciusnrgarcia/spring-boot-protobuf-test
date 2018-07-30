@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.example;
+package com.example.repository;
 
 import java.util.ArrayList;
 import java.util.Arrays;

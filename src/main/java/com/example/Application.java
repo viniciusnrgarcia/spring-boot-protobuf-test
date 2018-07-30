@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.domain.Course;
 import com.example.protobuf.CourseProto.Courses;
+import com.example.repository.CourseRepository;
 
 import lombok.extern.slf4j.Slf4j;
 
